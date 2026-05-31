@@ -105,8 +105,16 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I study data science at UC Berkeley<br>
-My interests lie in multimodal ML, geospatial ML, and distributed systems
+I study data science at UC Berkeley
+
+I'm interested in multimodal ML, geospatial ML, and distributed systems
+
+I'll be working on research infra at Balyasny Asset Management this summer
+
+I recently worked on ML research under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
+
+I'm also reading about GPU programming and working on a performant geospatial query library <a href="https://github.com/pranav-walimbe/PyCanopy">[github]</a> at the moment
+
 
 <p class="social-links" style="margin-top: 0.6rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
@@ -173,7 +181,7 @@ My interests lie in multimodal ML, geospatial ML, and distributed systems
   <div class="entry-body">
     <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
     <div class="entry-role">Student Researcher · February 2026 – May 2026 · Berkeley, CA</div>
-    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen &nbsp;<a href="/assets/pdf/Cohen-Lab-Poster.pdf" style="font-size:0.82rem;">[poster]</a></div>
+    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div>
   </div>
 </div>
 
