@@ -21,6 +21,7 @@ latest_posts:
 ---
 
 <style>
+:root { color-scheme: light only; }
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
@@ -29,17 +30,17 @@ h1.post-title span.font-weight-bold {
   font-weight: inherit !important;
 }
 
-/* Mini separator between positions — clear visible line */
+/* Mini separator between positions — subtle light line */
 .mini-sep {
   border: none;
-  border-top: 1px solid #333;
+  border-top: 1px solid #e8e8e8;
   margin: 1.4rem 0;
 }
 
-/* Section separator — subtle light rule */
+/* Section separator — dark full-width rule */
 .section-sep {
   border: none;
-  border-top: 2px solid #e8e8e8;
+  border-top: 2px solid #333;
   margin: 2.5rem 0;
 }
 
