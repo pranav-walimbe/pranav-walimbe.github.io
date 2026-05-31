@@ -2,62 +2,81 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student @ UC Berkeley
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Berkeley, CA</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Hi, I'm Pranav! I study data science at UC Berkeley. My interests lie in multimodal ML, geospatial ML, and distributed systems.
+I study data science at UC Berkeley. My interests lie in multimodal ML, geospatial ML, and distributed systems.
 
 ---
 
 ## Experience
 
-**Balyasny Asset Management** *(June 2026 – August 2026 · Austin, TX)*
+<br>
+
+**Balyasny Asset Management**<br>
+*Summer Associate*<br>
+<small>June 2026 – August 2026 · Austin, TX</small>
 
 Incoming summer intern on the data science engineering team
 
-**Amazon Web Services** *(May 2025 – August 2025 · Seattle, WA)*
+<br>
 
-SDE intern on the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations
+**Amazon Web Services**<br>
+*Software Development Engineer Intern*<br>
+<small>May 2025 – August 2025 · Seattle, WA</small>
 
-**Synopsys** *(May 2024 – August 2024 · Sunnyvale, CA)*
+Worked on the managed streaming for kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations
 
-SWE intern on the PrimeClosure team, worked on graph and tabular ML models for chip design optimization
+<br>
 
-**Intel** *(June 2022 – August 2022 · Folsom, CA)*
+**Synopsys**<br>
+*Software Engineer Intern*<br>
+<small>May 2024 – August 2024 · Sunnyvale, CA</small>
 
-High school internship program, worked on chip design automation tooling on the process design kit design rule optimization team
+Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team
+
+<br>
+
+**Intel**<br>
+*Software Engineer Intern*<br>
+<small>June 2022 – August 2022 · Folsom, CA</small>
+
+Worked on chip design automation tooling in the process design kit design rule optimization team
 
 ---
 
 ## Research
 
-**Cohen Atmospheric Chemistry Lab** *(February 2025 – May 2026 · Berkeley, CA)*
+<br>
 
-Worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen
+**Cohen Atmospheric Chemistry Lab**<br>
+*Student Researcher*<br>
+<small>February 2025 – May 2026 · Berkeley, CA</small>
 
-**Data Science Discovery Program** *(Fall 2023 – Spring 2025 · Berkeley, CA)*
+Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen
+
+<br>
+
+**Data Science Discovery Program**<br>
+*Student Researcher*<br>
+<small>Fall 2023 – Spring 2025 · Berkeley, CA</small>
 
 Completed multiple semesters of applied research projects:
 - Financial Anomaly Detection (advised by Ethan Yen at Gilead, Spring 2025)
 - Synthetic Labelling for Remote Sensing Captioning (advised by Dr. Ranjan Sinha at IBM Research, Fall 2024)
-- & more
+- and some others too
