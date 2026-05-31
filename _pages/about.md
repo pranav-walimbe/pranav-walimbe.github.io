@@ -31,7 +31,7 @@ h1.post-title span.font-weight-bold {
 
 .section-sep {
   border: none;
-  border-top: 2px solid #333;
+  border-top: 1px solid #999;
   margin: 2.5rem 0;
 }
 
@@ -111,12 +111,12 @@ I'm interested in multimodal ML, geospatial ML, and distributed systems
 
 I'll be working on research infra at Balyasny Asset Management this summer
 
-I recently worked on ML research under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
+Recently, I worked on ML research under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-I'm also reading about GPU programming and working on a performant geospatial query library <a href="https://github.com/pranav-walimbe/PyCanopy">[github]</a> at the moment
+Currently, I'm also reading about GPU programming and working on a performant geospatial query library <a href="https://github.com/pranav-walimbe/PyCanopy">[PyCanopy]</a>
 
 
-<p class="social-links" style="margin-top: 0.6rem;">
+<p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
   <a href="https://github.com/pranav-walimbe"><i class="fa-brands fa-github"></i></a>
   <a href="https://www.linkedin.com/in/pranav-walimbe-9218461a6/"><i class="fa-brands fa-linkedin"></i></a>
