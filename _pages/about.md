@@ -111,7 +111,7 @@ I'm interested in multimodal ML, geospatial ML, and distributed systems
 
 I'll be working on research infra at Balyasny Asset Management this summer
 
-Recently, I worked on ML research under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
+Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
 Currently, I'm also reading about GPU programming and working on a performant geospatial query library <a href="https://github.com/pranav-walimbe/PyCanopy">[PyCanopy]</a>
 
@@ -193,8 +193,8 @@ Currently, I'm also reading about GPU programming and working on a performant ge
     <div class="entry-company">Data Science Discovery Program</div>
     <div class="entry-role">Student Researcher · Fall 2023 – Spring 2025 · Berkeley, CA</div>
     <div class="entry-desc">Completed multiple semesters of applied research projects:</div>
-    <div class="entry-desc">· Financial Anomaly Detection — advised by Ethan Yen at Gilead <em>(Spring 2025)</em></div>
-    <div class="entry-desc">· Synthetic Labelling for Remote Sensing Captioning — advised by Dr. Ranjan Sinha at IBM Research <em>(Fall 2024)</em></div>
+    <div class="entry-desc">· Financial Anomaly Detection, advised by Ethan Yen at Gilead <em>(Spring 2025)</em></div>
+    <div class="entry-desc">· Synthetic Labelling for Remote Sensing Captioning, advised by Dr. Ranjan Sinha at IBM Research <em>(Fall 2024)</em></div>
     <div class="entry-desc">· and some others too</div>
   </div>
 </div>
