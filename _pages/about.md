@@ -29,17 +29,17 @@ h1.post-title span.font-weight-bold {
   font-weight: inherit !important;
 }
 
-/* Mini separator between positions */
+/* Mini separator between positions — subtle light line */
 .mini-sep {
   border: none;
-  border-top: 1px solid #e0e0e0;
-  margin: 1.2rem 0;
+  border-top: 1px solid #e8e8e8;
+  margin: 1.4rem 0;
 }
 
-/* Section separator */
+/* Section separator — dark full-width rule */
 .section-sep {
   border: none;
-  border-top: 2px solid #bbb;
+  border-top: 2px solid #333;
   margin: 2.5rem 0;
 }
 
@@ -58,8 +58,8 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I study data science at UC Berkeley.<br>
-My interests lie in multimodal ML, geospatial ML, and distributed systems.
+I study data science at UC Berkeley<br>
+My interests lie in multimodal ML, geospatial ML, and distributed systems
 
 <p class="social-links" style="margin-top: 0.6rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
@@ -70,6 +70,8 @@ My interests lie in multimodal ML, geospatial ML, and distributed systems.
 <hr class="section-sep">
 
 ## Experience
+
+<br>
 
 **Balyasny Asset Management**<br>
 *Summer Associate*
@@ -105,9 +107,11 @@ Worked on chip design automation tooling in the process design kit design rule o
 
 ## Research
 
+<br>
+
 **Cohen Atmospheric Chemistry Lab**<br>
 *Student Researcher*
-<p class="entry-meta">February 2025 – May 2026 · Berkeley, CA</p>
+<p class="entry-meta">February 2026 – May 2026 · Berkeley, CA</p>
 
 Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen
 
