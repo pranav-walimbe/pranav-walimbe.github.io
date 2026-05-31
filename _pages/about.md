@@ -25,37 +25,83 @@ latest_posts:
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
-/* Make first name match last name */
 h1.post-title span.font-weight-bold {
   font-weight: inherit !important;
 }
 
-/* Mini separator between positions — subtle light line */
-.mini-sep {
-  border: none;
-  border-top: 1px solid #e8e8e8;
-  margin: 1.4rem 0;
-}
-
-/* Section separator — dark full-width rule */
 .section-sep {
   border: none;
   border-top: 2px solid #333;
   margin: 2.5rem 0;
 }
 
-/* Date/location styling */
-.entry-meta {
-  font-size: 0.82rem;
-  color: #888;
-  margin-top: 0.1rem;
+.mini-sep {
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 1.4rem 0;
 }
 
-/* Social icons */
 .social-links a {
   margin-right: 12px;
   font-size: 1rem;
   color: inherit;
+}
+
+/* Entry card layout */
+.entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.entry-logo {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  border-radius: 6px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.entry-logo-placeholder {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+}
+
+.entry-body {
+  flex: 1;
+}
+
+.entry-company {
+  font-weight: 600;
+}
+
+.entry-role {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 2px;
+}
+
+.entry-desc {
+  margin-top: 0.4rem;
+  font-size: 0.92rem;
+}
+
+/* Sub-entries for DDP projects */
+.sub-entries {
+  margin-top: 0.5rem;
+}
+
+.sub-entry {
+  font-size: 0.85rem;
+  color: #555;
+  padding: 0.25rem 0;
+  border-top: 1px solid #f0f0f0;
+}
+
+.sub-entry:first-child {
+  border-top: none;
 }
 </style>
 
@@ -74,35 +120,47 @@ My interests lie in multimodal ML, geospatial ML, and distributed systems
 
 <br>
 
-**Balyasny Asset Management**<br>
-*Summer Associate*
-<p class="entry-meta">June 2026 – August 2026 · Austin, TX</p>
-
-Incoming summer intern in the data science engineering team
-
-<hr class="mini-sep">
-
-**Amazon Web Services**<br>
-*Software Development Engineer Intern*
-<p class="entry-meta">May 2025 – August 2025 · Seattle, WA</p>
-
-Worked in the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
+  <div class="entry-body">
+    <div class="entry-company">Balyasny Asset Management</div>
+    <div class="entry-role">Summer Associate · June 2026 – August 2026 · Austin, TX</div>
+    <div class="entry-desc">Incoming summer intern in the data science engineering team</div>
+  </div>
+</div>
 
 <hr class="mini-sep">
 
-**Synopsys**<br>
-*Software Engineer Intern*
-<p class="entry-meta">May 2024 – August 2024 · Sunnyvale, CA</p>
-
-Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/aws-logo.jpg" alt="AWS">
+  <div class="entry-body">
+    <div class="entry-company">Amazon Web Services</div>
+    <div class="entry-role">Software Development Engineer Intern · May 2025 – August 2025 · Seattle, WA</div>
+    <div class="entry-desc">Worked in the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations</div>
+  </div>
+</div>
 
 <hr class="mini-sep">
 
-**Intel**<br>
-*Software Engineer Intern*
-<p class="entry-meta">June 2022 – August 2022 · Folsom, CA</p>
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/synopsys-logo.jpg" alt="Synopsys">
+  <div class="entry-body">
+    <div class="entry-company">Synopsys</div>
+    <div class="entry-role">Software Engineer Intern · May 2024 – August 2024 · Sunnyvale, CA</div>
+    <div class="entry-desc">Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team</div>
+  </div>
+</div>
 
-Worked on chip design automation tooling in the process design kit design rule optimization team
+<hr class="mini-sep">
+
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/intel-logo.jpeg" alt="Intel">
+  <div class="entry-body">
+    <div class="entry-company">Intel</div>
+    <div class="entry-role">Software Engineer Intern · June 2022 – August 2022 · Folsom, CA</div>
+    <div class="entry-desc">Worked on chip design automation tooling in the process design kit design rule optimization team</div>
+  </div>
+</div>
 
 <hr class="section-sep">
 
@@ -110,19 +168,25 @@ Worked on chip design automation tooling in the process design kit design rule o
 
 <br>
 
-**Cohen Atmospheric Chemistry Lab**<br>
-*Student Researcher*
-<p class="entry-meta">February 2026 – May 2026 · Berkeley, CA</p>
-
-Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/berkeleychemistry-logo.jpeg" alt="Cohen Lab">
+  <div class="entry-body">
+    <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
+    <div class="entry-role">Student Researcher · February 2026 – May 2026 · Berkeley, CA</div>
+    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen &nbsp;<a href="/assets/pdf/Cohen-Lab-Poster.pdf" style="font-size:0.82rem;">[poster]</a></div>
+  </div>
+</div>
 
 <hr class="mini-sep">
 
-**Data Science Discovery Program**<br>
-*Student Researcher*
-<p class="entry-meta">Fall 2023 – Spring 2025 · Berkeley, CA</p>
-
-Completed multiple semesters of applied research projects:
-- Financial Anomaly Detection (advised by Ethan Yen at Gilead, Spring 2025)
-- Synthetic Labelling for Remote Sensing Captioning (advised by Dr. Ranjan Sinha at IBM Research, Fall 2024)
-- and some others too
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/cdss-logo.jpeg" alt="CDSS">
+  <div class="entry-body">
+    <div class="entry-company">Data Science Discovery Program</div>
+    <div class="entry-role">Student Researcher · Fall 2023 – Spring 2025 · Berkeley, CA</div>
+    <div class="entry-desc">Completed multiple semesters of applied research projects:</div>
+    <div class="entry-desc">· Financial Anomaly Detection — advised by Ethan Yen at Gilead <em>(Spring 2025)</em></div>
+    <div class="entry-desc">· Synthetic Labelling for Remote Sensing Captioning — advised by Dr. Ranjan Sinha at IBM Research <em>(Fall 2024)</em></div>
+    <div class="entry-desc">· and some others too</div>
+  </div>
+</div>
