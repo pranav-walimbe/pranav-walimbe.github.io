@@ -23,63 +23,99 @@ latest_posts:
 <style>
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
-.navbar-brand span { color: inherit !important; font-weight: inherit !important; }
+
+/* Make first name match last name */
+h1.post-title span.font-weight-bold {
+  font-weight: inherit !important;
+}
+
+/* Mini separator between positions */
+.mini-sep {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 1.2rem 0;
+}
+
+/* Section separator */
+.section-sep {
+  border: none;
+  border-top: 2px solid #bbb;
+  margin: 2.5rem 0;
+}
+
+/* Date/location styling */
+.entry-meta {
+  font-size: 0.82rem;
+  color: #888;
+  margin-top: 0.1rem;
+}
+
+/* Social icons */
+.social-links a {
+  margin-right: 12px;
+  font-size: 1rem;
+  color: inherit;
+}
 </style>
 
 I study data science at UC Berkeley.<br>
 My interests lie in multimodal ML, geospatial ML, and distributed systems.
 
-<p style="margin-top: 0.5rem; font-size: 1rem;">
-  <a href="mailto:pranav.walimbe@berkeley.edu" style="margin-right: 10px;"><i class="fa-solid fa-envelope"></i></a>
-  <a href="https://github.com/pranav-walimbe" style="margin-right: 10px;"><i class="fa-brands fa-github"></i></a>
+<p class="social-links" style="margin-top: 0.6rem;">
+  <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
+  <a href="https://github.com/pranav-walimbe"><i class="fa-brands fa-github"></i></a>
   <a href="https://www.linkedin.com/in/pranav-walimbe-9218461a6/"><i class="fa-brands fa-linkedin"></i></a>
 </p>
 
-<br>
-
----
+<hr class="section-sep">
 
 ## Experience
 
 **Balyasny Asset Management**<br>
-*Summer Associate*<br>
-<small>June 2026 – August 2026 · Austin, TX</small>
+*Summer Associate*
+<p class="entry-meta">June 2026 – August 2026 · Austin, TX</p>
 
 Incoming summer intern in the data science engineering team
 
+<hr class="mini-sep">
+
 **Amazon Web Services**<br>
-*Software Development Engineer Intern*<br>
-<small>May 2025 – August 2025 · Seattle, WA</small>
+*Software Development Engineer Intern*
+<p class="entry-meta">May 2025 – August 2025 · Seattle, WA</p>
 
 Worked in the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations
 
+<hr class="mini-sep">
+
 **Synopsys**<br>
-*Software Engineer Intern*<br>
-<small>May 2024 – August 2024 · Sunnyvale, CA</small>
+*Software Engineer Intern*
+<p class="entry-meta">May 2024 – August 2024 · Sunnyvale, CA</p>
 
 Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team
 
+<hr class="mini-sep">
+
 **Intel**<br>
-*Software Engineer Intern*<br>
-<small>June 2022 – August 2022 · Folsom, CA</small>
+*Software Engineer Intern*
+<p class="entry-meta">June 2022 – August 2022 · Folsom, CA</p>
 
 Worked on chip design automation tooling in the process design kit design rule optimization team
 
-<br>
-
----
+<hr class="section-sep">
 
 ## Research
 
 **Cohen Atmospheric Chemistry Lab**<br>
-*Student Researcher*<br>
-<small>February 2025 – May 2026 · Berkeley, CA</small>
+*Student Researcher*
+<p class="entry-meta">February 2025 – May 2026 · Berkeley, CA</p>
 
 Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen
 
+<hr class="mini-sep">
+
 **Data Science Discovery Program**<br>
-*Student Researcher*<br>
-<small>Fall 2023 – Spring 2025 · Berkeley, CA</small>
+*Student Researcher*
+<p class="entry-meta">Fall 2023 – Spring 2025 · Berkeley, CA</p>
 
 Completed multiple semesters of applied research projects:
 - Financial Anomaly Detection (advised by Ethan Yen at Gilead, Spring 2025)
