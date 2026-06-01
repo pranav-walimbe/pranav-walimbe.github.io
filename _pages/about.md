@@ -113,7 +113,7 @@ I'll be working on research infra at Balyasny Asset Management this summer
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm also reading about GPU programming and working on a performant geospatial query library <a href="https://github.com/pranav-walimbe/PyCanopy">[PyCanopy]</a>
+Currently, I'm also reading about GPU programming and working on a geospatial query planning library
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
