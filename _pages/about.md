@@ -107,13 +107,13 @@ h1.post-title span.font-weight-bold {
 
 I study data science at UC Berkeley
 
-I'm interested in multimodal ML, geospatial ML, and distributed systems
+I'm working on research infra in the data science engineering group at Balyasny Asset Management this summer
 
-I'll be working on research infra at Balyasny Asset Management this summer
+I'm interested in distributed systems, applied ML, and alternative data at the moment
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm also reading about GPU programming and working on a geospatial query planning library
+Currently, I'm reading about GPU programming and working on a Python library for geospatial query optimization
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
@@ -133,7 +133,7 @@ Currently, I'm also reading about GPU programming and working on a geospatial qu
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
     <div class="entry-role">Summer Associate · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Incoming summer intern in the data science engineering team</div>
+    <div class="entry-desc">Intern in the data science engineering team</div>
   </div>
 </div>
 
