@@ -192,9 +192,9 @@ Currently, I'm reading about GPU programming and working on a Python library for
   <div class="entry-body">
     <div class="entry-company">Data Science Discovery Program</div>
     <div class="entry-role">Student Researcher · Fall 2023 – Spring 2025 · Berkeley, CA</div>
-    <div class="entry-desc">Completed multiple semesters of applied research projects:</div>
-    <div class="entry-desc">· Gilead: Financial Anomaly Detection, advised by Ethan Yen at Gilead <em>(Spring 2025)</em></div>
-    <div class="entry-desc">· IBM: Synthetic Labelling for Remote Sensing Captioning, advised by Dr. Ranjan Sinha at IBM Research <em>(Fall 2024)</em></div>
+    <div class="entry-desc">Completed multiple semesters of applied industry research projects:</div>
+    <div class="entry-desc">· Gilead: Financial Anomaly Detection, advised by Ethan Yen <em>(Spring 2025)</em></div>
+    <div class="entry-desc">· IBM: Synthetic Labelling for Remote Sensing Captioning, advised by Dr. Ranjan Sinha <em>(Fall 2024)</em></div>
     <div class="entry-desc">· and some others too</div>
   </div>
 </div>
