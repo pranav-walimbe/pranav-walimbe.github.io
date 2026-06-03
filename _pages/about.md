@@ -105,8 +105,6 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I study data science at UC Berkeley
-
 I'm working on research infra at Balyasny Asset Management this summer
 
 I'm interested in distributed systems, applied ML, and alternative data at the moment
