@@ -111,7 +111,7 @@ I'm interested in distributed systems, applied ML, and alternative data at the m
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm reading about GPU programming and working on a Python library for geospatial query optimization
+Currently, I'm also reading about GPU programming and working on a performant spatial query layer for Polars on the side
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
