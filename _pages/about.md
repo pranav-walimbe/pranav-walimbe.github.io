@@ -20,11 +20,15 @@ latest_posts:
   enabled: false
 ---
 
-<script>document.documentElement.setAttribute('data-bs-theme', 'dark');</script>
-
 <style>
-:root { color-scheme: dark; }
-html, body { background-color: #202124 !important; color: #ddd !important; }
+html, body,
+h1, h2, h3, h4, h5, h6,
+p, li, span, div, blockquote, em, strong, code {
+  background-color: #202124 !important;
+  color: #ddd !important;
+}
+a { color: #aac4ff !important; }
+a:hover { color: #c8daff !important; }
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
@@ -82,7 +86,7 @@ h1.post-title span.font-weight-bold {
 
 .entry-role {
   font-size: 0.85rem;
-  color: #999;
+  color: #999 !important;
   margin-top: 2px;
 }
 
