@@ -21,7 +21,8 @@ latest_posts:
 ---
 
 <style>
-:root { color-scheme: light only; }
+:root { color-scheme: dark; }
+html, body { background-color: #202124 !important; color: #ddd !important; }
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
@@ -31,13 +32,13 @@ h1.post-title span.font-weight-bold {
 
 .section-sep {
   border: none;
-  border-top: 1px solid #999;
+  border-top: 2px solid #555;
   margin: 2.5rem 0;
 }
 
 .mini-sep {
   border: none;
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #2d2d2d;
   margin: 1.4rem 0;
 }
 
@@ -79,7 +80,7 @@ h1.post-title span.font-weight-bold {
 
 .entry-role {
   font-size: 0.85rem;
-  color: #666;
+  color: #999;
   margin-top: 2px;
 }
 
@@ -95,9 +96,9 @@ h1.post-title span.font-weight-bold {
 
 .sub-entry {
   font-size: 0.85rem;
-  color: #555;
+  color: #aaa;
   padding: 0.25rem 0;
-  border-top: 1px solid #f0f0f0;
+  border-top: 1px solid #2a2a2a;
 }
 
 .sub-entry:first-child {
