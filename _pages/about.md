@@ -20,6 +20,8 @@ latest_posts:
   enabled: false
 ---
 
+<script>document.documentElement.setAttribute('data-bs-theme', 'dark');</script>
+
 <style>
 :root { color-scheme: dark; }
 html, body { background-color: #202124 !important; color: #ddd !important; }
