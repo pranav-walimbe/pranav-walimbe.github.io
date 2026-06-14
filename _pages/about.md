@@ -32,13 +32,21 @@ a:hover { color: #1a4490 !important; }
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
+footer, footer.fixed-bottom, footer.sticky-bottom, .footer,
+footer .container, footer p, footer span, footer div {
+  background-color: #f3efe6 !important;
+  color: #6b6b6b !important;
+}
+footer a { color: #2a5db0 !important; }
+footer a:hover { color: #1a4490 !important; }
+
 h1.post-title span.font-weight-bold {
   font-weight: inherit !important;
 }
 
 .section-sep {
   border: none;
-  border-top: 2px solid #b0b0b0;
+  border-top: 2px solid #c4c4c4;
   margin: 2.5rem 0;
 }
 
@@ -112,7 +120,7 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm working on research infra at Balyasny Asset Management in their systematic group this summer
+I'm working on equities research infra at Balyasny Asset Management this summer
 
 I'm interested in distributed systems, ML infra, and geospatial / multimodal ML at the moment
 
@@ -137,8 +145,8 @@ Currently, I'm self-studying GPU programming and working on a performant spatial
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
-    <div class="entry-role">Summer Associate · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Intern in the data science engineering team</div>
+    <div class="entry-role">Data Engineer Intern · June 2026 – August 2026 · Austin, TX</div>
+    <div class="entry-desc">Working on equities research infra in the data science engineering team</div>
   </div>
 </div>
 
