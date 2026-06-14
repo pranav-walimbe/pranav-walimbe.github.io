@@ -24,11 +24,11 @@ latest_posts:
 html, body,
 h1, h2, h3, h4, h5, h6,
 p, li, span, div, blockquote, em, strong, code {
-  background-color: #202124 !important;
-  color: #ddd !important;
+  background-color: #f3efe6 !important;
+  color: #2a2a2a !important;
 }
-a { color: #aac4ff !important; }
-a:hover { color: #c8daff !important; }
+a { color: #2a5db0 !important; }
+a:hover { color: #1a4490 !important; }
 nav.navbar { display: none !important; }
 body { padding-top: 0 !important; }
 
@@ -38,13 +38,13 @@ h1.post-title span.font-weight-bold {
 
 .section-sep {
   border: none;
-  border-top: 2px solid #555;
+  border-top: 2px solid #b0b0b0;
   margin: 2.5rem 0;
 }
 
 .mini-sep {
   border: none;
-  border-top: 1px solid #2d2d2d;
+  border-top: 1px solid #c4c4c4;
   margin: 1.4rem 0;
 }
 
@@ -86,7 +86,7 @@ h1.post-title span.font-weight-bold {
 
 .entry-role {
   font-size: 0.85rem;
-  color: #999 !important;
+  color: #6b6b6b !important;
   margin-top: 2px;
 }
 
@@ -102,9 +102,9 @@ h1.post-title span.font-weight-bold {
 
 .sub-entry {
   font-size: 0.85rem;
-  color: #aaa;
+  color: #6b6b6b;
   padding: 0.25rem 0;
-  border-top: 1px solid #2a2a2a;
+  border-top: 1px solid #c4c4c4;
 }
 
 .sub-entry:first-child {
@@ -112,13 +112,13 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm working on research infra at Balyasny Asset Management this summer
+I'm working on research infra at Balyasny Asset Management in their systematic group this summer
 
-I'm interested in distributed systems, applied ML, and alternative data at the moment
+I'm interested in distributed systems, ML infra, and geospatial / multimodal ML at the moment
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm also reading about GPU programming and working on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy) on the side
+Currently, I'm self-studying GPU programming and working on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy) on the side
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
