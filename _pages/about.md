@@ -146,7 +146,7 @@ Currently, I'm also playing around with a spatial query layer for Polars [[githu
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
     <div class="entry-role">Data Engineer Intern · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Working on equities research infra in the data science engineering team</div>
+    <div class="entry-desc">Working on equities research infra in the systematic group</div>
   </div>
 </div>
 
