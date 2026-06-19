@@ -120,13 +120,13 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm working on equities research infra at Balyasny Asset Management this summer
+I'm working on equities research infra at Balyasny Asset Management in the systematic group this summer
 
-I'm interested in distributed systems, ML infra, and geospatial / multimodal ML at the moment
+I'm mainly interested in data / ML systems that are fast and useful
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm self-studying GPU programming and working on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy) on the side
+Currently, I'm also playing around with a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
