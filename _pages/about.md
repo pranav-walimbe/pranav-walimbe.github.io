@@ -126,7 +126,7 @@ I'm mainly interested in data / ML systems that are fast and useful
 
 Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
 
-Currently, I'm also playing around with a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
+Currently, I'm also playing around with a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy), which has been very competitve on Apache's spatial query benchmark [[benchmarks]](https://pranav-walimbe.github.io/PyCanopy/benchmarks/)
 
 
 <p class="social-links" style="margin-top: 1.4rem;">
