@@ -124,10 +124,7 @@ I'm working on equities research infra at Balyasny Asset Management in the syste
 
 I'm mainly interested in data / ML systems that are fast and useful
 
-Recently, I worked on ML models for estimating power plant emissions from satellite imagery under Prof. Ron Cohen <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
-
-Currently, I'm also playing around with a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy), which has been very competitve on Apache's spatial query benchmark [[benchmarks]](https://pranav-walimbe.github.io/PyCanopy/benchmarks/)
-
+Recently, I've been playing around with spatial data tooling, which led me to work on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy).
 
 <p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
@@ -194,7 +191,7 @@ Currently, I'm also playing around with a performant spatial query layer for Pol
   <div class="entry-body">
     <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
     <div class="entry-role">Student Researcher · February 2026 – May 2026 · Berkeley, CA</div>
-    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div>
+    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div> <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
   </div>
 </div>
 
