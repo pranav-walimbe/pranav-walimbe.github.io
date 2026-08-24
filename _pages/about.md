@@ -120,11 +120,11 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm working on equities research infra at Balyasny Asset Management in the systematic group this summer
+I'm joining Balyasny Asset Management this fall as a data science engineer in the systematic org and recently graduated from UC Berkeley.
 
 I'm mainly interested in data / ML systems that are fast and useful
 
-Recently, I've been playing around with spatial data tooling, which led me to work on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy).
+Recently, I've been playing around with spatial data tooling, which led me to work on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
 
 <p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
