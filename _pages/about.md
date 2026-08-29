@@ -120,11 +120,11 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm joining Balyasny Asset Management this fall as a data science engineer in the systematic org and recently graduated from UC Berkeley.
+I'm joining Balyasny Asset Management this fall as a data science engineer in the systematic org and recently graduated from UC Berkeley
 
 I'm mainly interested in data / ML systems that are fast and useful
 
-Recently, I've been playing around with spatial data tooling, which led me to work on a performant spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
+At the moment, I'm working on satellite image models for power plant emissions. Recently, I worked on a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
 
 <p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
@@ -143,7 +143,7 @@ Recently, I've been playing around with spatial data tooling, which led me to wo
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
     <div class="entry-role">Data Engineer Intern · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Working on equities research infra in the systematic group</div>
+    <div class="entry-desc">Worked on equities research infra in the systematic group</div>
   </div>
 </div>
 
