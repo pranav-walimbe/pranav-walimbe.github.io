@@ -143,8 +143,8 @@ My current research uses satellite imagery to estimate power plant emissions. I 
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
-    <div class="entry-role">Data Engineer Intern · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Built equities research infrastructure for the systematic group</div>
+    <div class="entry-role">Summer Associate · June 2026 – August 2026 · Austin, TX</div>
+    <div class="entry-desc">Worked on research infra in the systematic group</div>
   </div>
 </div>
 
@@ -191,7 +191,7 @@ My current research uses satellite imagery to estimate power plant emissions. I 
   <img class="entry-logo" src="/assets/img/berkeleychemistry-logo.jpeg" alt="Cohen Lab">
   <div class="entry-body">
     <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
-    <div class="entry-role">Student Researcher · February 2026 – May 2026 · Berkeley, CA</div>
+    <div class="entry-role">Student Researcher · February 2026 – May 2026; August 2026 – October 2026 · Berkeley, CA</div>
     <div class="entry-desc">Developed machine learning models that estimate power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div> <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
   </div>
 </div>
