@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+description: Data and machine learning systems engineer working on geospatial ML, distributed data infrastructure, and scientific computing.
+subtitle: Data and machine learning systems engineer
 
 profile:
   align: right
@@ -120,16 +121,16 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm joining Balyasny Asset Management this fall as a data science engineer in the systematic org and recently graduated from UC Berkeley
+I recently graduated from UC Berkeley and will join Balyasny Asset Management as a data science engineer in its systematic organization.
 
-I'm mainly interested in data / ML systems that are fast and useful
+I build data and machine learning systems for geospatial analysis, distributed infrastructure, and scientific computing.
 
-At the moment, I'm working on satellite image models for power plant emissions. Recently, I worked on a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
+My current research uses satellite imagery to estimate power plant emissions. I also built [PyCanopy](https://github.com/pranav-walimbe/PyCanopy), a spatial query layer for Polars.
 
 <p class="social-links" style="margin-top: 1.4rem;">
-  <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
-  <a href="https://github.com/pranav-walimbe"><i class="fa-brands fa-github"></i></a>
-  <a href="https://www.linkedin.com/in/pranav-walimbe-9218461a6/"><i class="fa-brands fa-linkedin"></i></a>
+  <a href="mailto:pranav.walimbe@berkeley.edu" aria-label="Email Pranav Walimbe"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
+  <a href="https://github.com/pranav-walimbe" rel="me" aria-label="Pranav Walimbe on GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+  <a href="https://www.linkedin.com/in/pranav-walimbe-9218461a6/" rel="me" aria-label="Pranav Walimbe on LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
 </p>
 
 <hr class="section-sep">
@@ -142,8 +143,8 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
-    <div class="entry-role">Data Engineer Intern · June 2026 – August 2026 · Austin, TX</div>
-    <div class="entry-desc">Worked on equities research infra in the systematic group</div>
+    <div class="entry-role">Summer Associate · June 2026 – August 2026 · Austin, TX</div>
+    <div class="entry-desc">Worked on research infra in the systematic group</div>
   </div>
 </div>
 
@@ -154,7 +155,7 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Amazon Web Services</div>
     <div class="entry-role">Software Development Engineer Intern · May 2025 – August 2025 · Seattle, WA</div>
-    <div class="entry-desc">Worked in the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations</div>
+    <div class="entry-desc">Redesigned the Apache Kafka Produce API for offset-preserving cluster migrations on the Managed Streaming for Apache Kafka Express Brokers team</div>
   </div>
 </div>
 
@@ -165,7 +166,7 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Synopsys</div>
     <div class="entry-role">Software Engineer Intern · May 2024 – August 2024 · Sunnyvale, CA</div>
-    <div class="entry-desc">Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team</div>
+    <div class="entry-desc">Developed graph and tabular machine learning models for chip design optimization on the PrimeClosure team</div>
   </div>
 </div>
 
@@ -176,7 +177,7 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Intel</div>
     <div class="entry-role">Software Engineer Intern · June 2022 – August 2022 · Folsom, CA</div>
-    <div class="entry-desc">Worked on chip design automation tooling in the process design kit design rule optimization team</div>
+    <div class="entry-desc">Developed chip design automation tools for process design kit design-rule optimization</div>
   </div>
 </div>
 
@@ -190,8 +191,8 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <img class="entry-logo" src="/assets/img/berkeleychemistry-logo.jpeg" alt="Cohen Lab">
   <div class="entry-body">
     <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
-    <div class="entry-role">Student Researcher · February 2026 – May 2026 · Berkeley, CA</div>
-    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div> <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
+    <div class="entry-role">Student Researcher · February 2026 – May 2026; August 2026 – October 2026 · Berkeley, CA</div>
+    <div class="entry-desc">Developed machine learning models that estimate power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div> <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
   </div>
 </div>
 
@@ -202,9 +203,9 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Data Science Discovery Program</div>
     <div class="entry-role">Student Researcher · Fall 2023 – Spring 2025 · Berkeley, CA</div>
-    <div class="entry-desc">Completed multiple semesters of applied industry research projects:</div>
+    <div class="entry-desc">Completed several applied industry research projects:</div>
     <div class="entry-desc">· Gilead: Financial Anomaly Detection, advised by Ethan Yen <em>(Spring 2025)</em></div>
     <div class="entry-desc">· IBM: Synthetic Labelling for Remote Sensing Captioning, advised by Dr. Ranjan Sinha <em>(Fall 2024)</em></div>
-    <div class="entry-desc">· and some others too</div>
+    <div class="entry-desc">· Additional projects in applied machine learning and data systems</div>
   </div>
 </div>
