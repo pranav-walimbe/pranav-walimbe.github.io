@@ -145,6 +145,8 @@ Recently, I worked on satellite image models for power plant activity [[preprint
   </div>
 </div>
 
+<hr class="mini-sep">
+
 <div class="entry">
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
   <div class="entry-body">
