@@ -141,9 +141,10 @@ Recently, I worked on satellite image models for power plant activity [[preprint
   <div class="entry-body">
     <div class="entry-company">Balyasny Asset Management</div>
     <div class="entry-role">Data Science Engineer · Oct 2026 – Present · Austin, TX</div>
-    <div class="entry-desc">Systematic group</div>
   </div>
 </div>
+
+<hr class="mini-sep">
 
 <div class="entry">
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
