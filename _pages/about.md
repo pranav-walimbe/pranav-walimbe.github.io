@@ -120,11 +120,11 @@ h1.post-title span.font-weight-bold {
 }
 </style>
 
-I'm joining Balyasny Asset Management this fall as a data science engineer in the systematic org and recently graduated from UC Berkeley
+I'm a data science engineer at Balyasny Asset Management in the systematic group and recently graduated from UC Berkeley
 
 I'm mainly interested in data / ML systems that are fast and useful
 
-At the moment, I'm working on satellite image models for power plant emissions. Recently, I worked on a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
+Recently, I worked on satellite image models for power plant activity [[preprint draft]](/assets/pdf/preprint-draft-paper.pdf) and a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
 
 <p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
@@ -136,7 +136,13 @@ At the moment, I'm working on satellite image models for power plant emissions. 
 
 ## Experience
 
-<br>
+<div class="entry">
+  <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
+  <div class="entry-body">
+    <div class="entry-company">Balyasny Asset Management</div>
+    <div class="entry-role">Data Science Engineer · Oct 2026 – Present · Austin, TX</div>
+  </div>
+</div>
 
 <div class="entry">
   <img class="entry-logo" src="/assets/img/bam-logo.jpg" alt="BAM">
@@ -154,7 +160,7 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Amazon Web Services</div>
     <div class="entry-role">Software Development Engineer Intern · May 2025 – August 2025 · Seattle, WA</div>
-    <div class="entry-desc">Worked in the Managed Streaming for Kafka (MSK) express brokers team, redesigned the Apache Kafka Produce API for offset-preserving cluster migrations</div>
+    <div class="entry-desc">Redesigned the Apache Kafka produce API for offset preservation in cluster migrations on the MSK express brokers team</div>
   </div>
 </div>
 
@@ -165,7 +171,7 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Synopsys</div>
     <div class="entry-role">Software Engineer Intern · May 2024 – August 2024 · Sunnyvale, CA</div>
-    <div class="entry-desc">Worked on graph and tabular ML models for chip design optimization in the PrimeClosure team</div>
+    <div class="entry-desc">Worked on graph and tabular ML models for chip design optimization on the PrimeClosure team</div>
   </div>
 </div>
 
@@ -176,35 +182,6 @@ At the moment, I'm working on satellite image models for power plant emissions. 
   <div class="entry-body">
     <div class="entry-company">Intel</div>
     <div class="entry-role">Software Engineer Intern · June 2022 – August 2022 · Folsom, CA</div>
-    <div class="entry-desc">Worked on chip design automation tooling in the process design kit design rule optimization team</div>
-  </div>
-</div>
-
-<hr class="section-sep">
-
-## Research
-
-<br>
-
-<div class="entry">
-  <img class="entry-logo" src="/assets/img/berkeleychemistry-logo.jpeg" alt="Cohen Lab">
-  <div class="entry-body">
-    <div class="entry-company">Cohen Atmospheric Chemistry Lab</div>
-    <div class="entry-role">Student Researcher · February 2026 – May 2026; August 2026 – October 2026 · Berkeley, CA</div>
-    <div class="entry-desc">Worked on ML models for estimating power plant emissions from satellite imagery, advised by Prof. Ron Cohen</div> <a href="/assets/pdf/Cohen-Lab-Poster.pdf">[poster]</a>
-  </div>
-</div>
-
-<hr class="mini-sep">
-
-<div class="entry">
-  <img class="entry-logo" src="/assets/img/cdss-logo.jpeg" alt="CDSS">
-  <div class="entry-body">
-    <div class="entry-company">Data Science Discovery Program</div>
-    <div class="entry-role">Student Researcher · Fall 2023 – Spring 2025 · Berkeley, CA</div>
-    <div class="entry-desc">Completed multiple semesters of applied industry research projects:</div>
-    <div class="entry-desc">· Gilead: Financial Anomaly Detection, advised by Ethan Yen <em>(Spring 2025)</em></div>
-    <div class="entry-desc">· IBM: Synthetic Labelling for Remote Sensing Captioning, advised by Dr. Ranjan Sinha <em>(Fall 2024)</em></div>
-    <div class="entry-desc">· and some others too</div>
+    <div class="entry-desc">Worked on chip design automation tooling on the process design kit design rule optimization team</div>
   </div>
 </div>
