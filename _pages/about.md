@@ -124,7 +124,7 @@ I'm a data science engineer at Balyasny Asset Management in the systematic group
 
 I'm mainly interested in data / ML systems that are fast and useful
 
-Recently, I worked on satellite image models for power plant activity [preprint soon] and a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
+Recently, I worked on satellite image models for power plant activity [[preprint]](https://eartharxiv.org/repository/view/15747/) and a spatial query layer for Polars [[github]](https://github.com/pranav-walimbe/PyCanopy)
 
 <p class="social-links" style="margin-top: 1.4rem;">
   <a href="mailto:pranav.walimbe@berkeley.edu"><i class="fa-solid fa-envelope"></i></a>
